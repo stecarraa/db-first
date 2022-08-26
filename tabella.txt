@@ -1,0 +1,19 @@
+Nome tabella : Automobili
+
+
+id - intero -
+marca - stringa -
+modello - stringa -
+carrozzeria - stringa -
+kilometraggio - intero
+anno - intero -
+potenza - intero -
+prezzo - float -
+proprietari - intero
+carburante - stringa -
+cambio - stringa -
+colore - stringa -
+provincia_vendita - stringa -
+descrizione - stringa -
+finaziamento - stringa -
+
